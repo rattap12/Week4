@@ -1,7 +1,7 @@
-import { HomePage } from "./pages/home"
-import { AdminPage } from "./pages/admin"
-import { AboutPage } from "./pages/About"
-import { ContactPage } from "./pages/Contact"
+import { HomePage } from './pages/home'
+import { AdminPage } from './pages/admin'
+import { AboutPage } from './pages/About'
+import { ContactPage } from './pages/Contact'
 
 const routes = {
   '/': HomePage,
