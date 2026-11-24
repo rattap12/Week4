@@ -14,8 +14,7 @@ export function HomePage() {
 
       <main class="max-w-7xl mx-auto px-6 py-10">
 
-        <section class="rounded-3xl bg-gradient-to-r
-                        from-sky-800 to-blue-600
+        <section class="rounded-3xl bg-gradient-to-r  from-sky-800 to-blue-600
                         p-8 md:p-14 text-white shadow-xl">
 
           <h2 class="text-3xl md:text-5xl font-bold">
