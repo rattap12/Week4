@@ -24,7 +24,7 @@ export function AdminPage() {
 
           <p class="mt-4 text-sky-100 text-lg">
             ระบบบริหารจัดการข้อมูล
-            ใช้งานง่าย สะดวก และรวดเร็ว
+            ใช้งานง่าย สะดวก และรวดเร็วทันใจ
           </p>
 
           <a href="#/home"
