@@ -7,7 +7,7 @@ const routes = {
   '/': HomePage,
   '/admin': AdminPage,
   '/about': AboutPage,
-  '/contact': ContactPage
+  '/contact': ContactPage,
 }
 
 function render(){
