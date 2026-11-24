@@ -8,7 +8,7 @@ export function ContactPage() {
           <h1 class="text-xl font-bold text-sky-700">
             My Contact
           </h1>
-          
+
         </div>
       </header>
 
@@ -24,7 +24,7 @@ export function ContactPage() {
 
           <p class="mt-4 text-sky-100 text-lg">
             ระบบบริหารจัดการข้อมูล
-            ใช้งานง่าย สะดวก และรวดเร็ว
+            ใช้งานง่าย สะดวก และรวดเร็วทันใจ
           </p>
 
           <a href="#/home"
