@@ -33,5 +33,5 @@ export function AboutPage() {
       </main>
 
     </div>
-  `;
+  `
 }
